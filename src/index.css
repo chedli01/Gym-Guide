@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .backImage {
+    background-image: url("C:\Gym\Gym\src\assets\vecteezy_tapis-roulant-dans-moderne-salle-de-sport-tonique-image-3d_22653988.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    
+  }
+  .backAbs{
+    background-image: url("https://www.muscleandfitness.com/wp-content/uploads/2019/01/Birds-Eye-Shot-of-Man-Doing-Crunches-On-Yoga-Mat.jpg?quality=86&strip=all");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backChess{
+    background-image: url("https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/fea603ecea718e4973bb5831300dd60ab28b/i1080x475.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backArms{
+    background-image: url("https://blogscdn.thehut.net/app/uploads/sites/442/2021/09/shutterstock_758180677-2-min_1630484929_1632748083.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backLegs{
+    background-image: url("https://cherry.img.pmdstatic.net/fit/https.3A.2F.2Fimg.2Esport.2Egentside.2Ecom.2Fs3.2Ffrgss.2F1280.2Fmusculation.2Fdefault_2022-03-24_ce2348f9-6792-4a76-81af-0d69ef3c0b2f.2Ejpeg/1200x675/quality/80/muscler-ses-cuisses-programme-d-exercices-pour-muscler-ses-jambes.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backAbsBeg{
+    background-image: url("https://www.mensjournal.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_328%2Cy_489/MTk2MTM3NDIyMTc4Mjk2OTc3/absmain_.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backAbsInt{
+    background-image: url("https://steelsupplements.com/cdn/shop/articles/shutterstock_1724837179_1000x.jpg?v=1623225167");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backAbsPro{
+    background-image: url("https://www.setforset.com/cdn/shop/articles/10_pack_abs_600x.jpg?v=1633072885");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backChestBeg{
+    background-image: url("https://gripzilla.co/cdn/shop/articles/top-5-compound-chest-exercises-for-building-upper-body-mass-373819.jpg?v=1687171918");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .backChestInt{
+    background-image: url("https://www.eatthis.com/wp-content/uploads/sites/4/2022/12/fitness-man-cable-chest-fly.jpg?quality=82&strip=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .backChestPro{
+    background-image: url("https://hugesupplements.com/cdn/shop/articles/Chest_and_triceps_workout_routine.jpg?v=1654762442");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .backArmsBeg{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/QDNxmeBDJCXSRxshVuSdRA.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backArmsInt{
+    background-image: url("https://barbend.com/wp-content/uploads/2022/03/shutterstock_1543790417.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backArmsPro{
+    background-image: url("https://img.gymshark.com/image/fetch/q_auto,f_auto/https://images.ctfassets.net/8urtyqugdt2l/7m4ielnsiFsn1fMA7MFoQn/2495e193b1acb63cbb5212521ecaba3d/_image_fetch_q_auto_f_auto_w_720_c_fill_ar_4_3_https___cdn.shopify.com_s_files_1_0156_6146_articles_1571824936-the-best-arm-.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backlegsBeg{
+    background-image: url("https://img.livestrong.com/375/clsd/getty/94e8840121fd4a04a7b12b8d46ac9ecb");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backlegsInt{
+    background-image: url("https://steelsupplements.com/cdn/shop/articles/shutterstock_1689858364_1000x.jpg?v=1663098939");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .backlegsPro{
+    background-image: url("https://miro.medium.com/v2/resize:fit:1109/1*va3PJPFHLbEfRR1S2X2qpA.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+
+  
+  /* ... */
+}
